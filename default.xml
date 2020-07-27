@@ -1,0 +1,10 @@
+<manifest>
+
+    <remote name="rafsgithub" fetch="https://github.com/rafmeeusen"/>
+
+    <default revision="refs/heads/master" remote="rafsgithub" sync-j="4"/>
+
+    <project name="public-key-examples" remote="rafsgithub" path="pk_examp"/>
+    <project name="java-examples" remote="rafsgithub" path="java_examples"/>
+
+</manifest>
