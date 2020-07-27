@@ -5,6 +5,12 @@
     <default revision="refs/heads/master" remote="rafsgithub" sync-j="4"/>
 
     <project name="public-key-examples" remote="rafsgithub"/>
+    <project name="linux-networking" remote="rafsgithub"/>
+    <project name="python-examples" remote="rafsgithub"/>
     <project name="java-examples" remote="rafsgithub"/>
+    <project name="script-examples" remote="rafsgithub"/>
+    <project name="rafrekening" remote="rafsgithub"/>
+    <project name="c-examples" remote="rafsgithub"/>
+    <project name="rfid-poly" remote="rafsgithub"/>
 
 </manifest>
