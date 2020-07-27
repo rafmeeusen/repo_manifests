@@ -4,13 +4,13 @@
 
     <default revision="refs/heads/master" remote="rafsgithub" sync-j="4"/>
 
-    <project name="public-key-examples" remote="rafsgithub"/>
-    <project name="linux_networking" remote="rafsgithub"/>
-    <project name="python-examples" remote="rafsgithub"/>
-    <project name="java-examples" remote="rafsgithub"/>
-    <project name="script-examples" remote="rafsgithub"/>
-    <project name="rafrekening" remote="rafsgithub"/>
-    <project name="c-examples" remote="rafsgithub"/>
-    <project name="rfid-poly" remote="rafsgithub"/>
+    <project name="public-key-examples"/>
+    <project name="linux_networking"/>
+    <project name="python-examples"/>
+    <project name="java-examples"/>
+    <project name="script-examples"/>
+    <project name="rafrekening"/>
+    <project name="c-examples"/>
+    <project name="rfid-poly"/>
 
 </manifest>
