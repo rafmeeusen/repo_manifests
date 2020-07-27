@@ -2,7 +2,7 @@
 
     <remote name="rafsgithub" fetch="https://github.com/rafmeeusen"/>
 
-    <default revision="refs/heads/master" remote="rafsgithub" sync-j="4"/>
+    <default remote="rafsgithub" revision="master" sync-j="4"/>
 
     <project name="public-key-examples"/>
     <project name="linux_networking"/>
